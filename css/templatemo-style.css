@@ -9,7 +9,7 @@ http://www.templatemo.com/tm-515-eatery
   @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
 
   body {
-    background: #ffffff;
+    background: red;
     font-family: 'Montserrat', sans-serif;
     overflow-x: hidden;
   }
@@ -26,13 +26,13 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   h1 {
-    color: #252525;
+    color: black;
     font-size: 3em;
     line-height: 50px;
   }
 
   h2 {
-    color: #353535;
+    color: white;
     font-size: 2em;
     padding-bottom: 10px;
   }
@@ -49,7 +49,7 @@ http://www.templatemo.com/tm-515-eatery
 
   p {
     color: #757575;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: normal;
     line-height: 24px;
   }
@@ -270,7 +270,7 @@ http://www.templatemo.com/tm-515-eatery
 
   .custom-navbar .nav li a:hover {
     background: transparent;
-    color: #ce3232;
+    color: yellow;
   }
 
   .custom-navbar .navbar-nav > li > a:hover,
